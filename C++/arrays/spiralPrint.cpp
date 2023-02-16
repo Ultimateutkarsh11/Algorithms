@@ -39,7 +39,6 @@ int main()
 
     while (count < total)
     {
-
         // Printing starting row:
         for (int index = startingCol; count < total && index <= endingCol; index++)
         {
